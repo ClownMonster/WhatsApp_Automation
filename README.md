@@ -1,2 +1,2 @@
 # WhatsApp_Automation
-Automating WhatsApp with python
+Sending Messages trough automation done using python selecnium webdriver
