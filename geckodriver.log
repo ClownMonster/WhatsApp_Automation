@@ -1,0 +1,29 @@
+1600222984132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezD2I6V"
+1600223002701	Marionette	INFO	Listening on port 35829
+1600223003128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+[Child 7553, MediaDecoderStateMachine #3] WARNING: 7fd4062b7ae0 OpenCubeb() failed to init cubeb: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/AudioStream.cpp, line 331
+[Child 7553, MediaDecoderStateMachine #3] WARNING: Decoder=7fd40b95fc00 [OnMediaSinkAudioError]: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 3891
+[Child 7553, MediaDecoderStateMachine #3] WARNING: Decoder=7fd40b95fc00 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1600223554168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQOiNvX"
+1600223568290	Marionette	INFO	Listening on port 38207
+1600223568410	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1600223573185	Marionette	INFO	Stopped listening on port 35829
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+[Child 8618, MediaDecoderStateMachine #1] WARNING: 7f4612004c80 OpenCubeb() failed to init cubeb: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/AudioStream.cpp, line 331
+[Child 8618, MediaDecoderStateMachine #1] WARNING: Decoder=7f462233d800 [OnMediaSinkAudioError]: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 3891
+[Child 8618, MediaDecoderStateMachine #1] WARNING: Decoder=7f462233d800 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1600223662680	Marionette	INFO	Stopped listening on port 38207
